@@ -3,6 +3,7 @@ import requests
 import csv
 
 
+
 #Define the basic Url and the api_key
 url = "https://api.data.gov/ed/collegescorecard/v1/schools.json?"
 key = "UZK46uo1msG53MNLgANhGi4PjSbvrnJi5HjG7qVp"
